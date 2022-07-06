@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\bin\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.exe
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\bin\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.deps.json
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\bin\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.runtimeconfig.json
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\bin\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\bin\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.dll
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\bin\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.pdb
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.dll
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.pdb
+C:\Users\Windows\source\repos\Enum-Struct-Upcasting-Downcasting\obj\Debug\netcoreapp3.1\Enum-Struct-Upcasting-Downcasting.genruntimeconfig.cache
